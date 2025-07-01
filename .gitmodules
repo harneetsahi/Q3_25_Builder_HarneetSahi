@@ -1,0 +1,6 @@
+[submodule "ts_prereq"]
+	path = ts_prereq
+	url = git@github.com:harneetsahi/turbine-pre-req.git
+[submodule "rs_prereq"]
+	path = rs_prereq
+	url = git@github.com:harneetsahi/turbine-pre-req-rs.git
