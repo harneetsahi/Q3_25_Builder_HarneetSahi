@@ -4,3 +4,6 @@
 [submodule "rs_prereq"]
 	path = rs_prereq
 	url = git@github.com:harneetsahi/turbine-pre-req-rs.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:harneetsahi/solana-starter.git
