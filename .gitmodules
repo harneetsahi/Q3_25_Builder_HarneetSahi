@@ -1,8 +1,8 @@
-[submodule "ts_prereq"]
-	path = ts_prereq
+[submodule "prereq_ts"]
+	path = prereq_ts
 	url = git@github.com:harneetsahi/turbine-pre-req.git
-[submodule "rs_prereq"]
-	path = rs_prereq
+[submodule "prereq_rs"]
+	path = prereq_rs
 	url = git@github.com:harneetsahi/turbine-pre-req-rs.git
 [submodule "solana-starter"]
 	path = solana-starter
